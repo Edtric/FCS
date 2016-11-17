@@ -1,0 +1,80 @@
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/CortexM3/ARM_GCC_493/Debug/main.o : C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CyLib.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CySpc.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/DEBUG_UART.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/DEBUG_UART_IntClock.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_PVT.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SCL.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SCL_aliases.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SDA.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SDA_aliases.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_IntClock.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MISO.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MISO_aliases.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MOSI.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MOSI_aliases.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_PVT.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SCLK.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SCLK_aliases.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SS.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SS_aliases.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cyPm.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cydevice.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cypins.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cytypes.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/project.h C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/main.c 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/DEBUG_UART.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/DEBUG_UART_IntClock.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_PVT.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SCL.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SCL_aliases.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SDA.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/I2C_SDA_aliases.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_IntClock.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MISO.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MISO_aliases.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MOSI.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_MOSI_aliases.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_PVT.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SCLK.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SCLK_aliases.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SS.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/SPIM_SS_aliases.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cmFunc.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/Users/edtriccorp/Documents/PSoC\ Creator/20161115_sUAS_FCS/Design01.cydsn/main.c : 
+
